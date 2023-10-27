@@ -231,7 +231,7 @@ section{
 /*About Section*/
 
 .about-pic{
-    filter: grayscale(50%);
+    filter: grayscale(30%);
     border-radius: 2rem;
 }
 .experience-icon{
@@ -240,7 +240,7 @@ section{
 
 #about{
     position: relative;
-    height: 90vh;
+   
 }
 .about-containers{
    gap: 2rem;
