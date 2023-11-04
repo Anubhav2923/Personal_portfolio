@@ -139,11 +139,15 @@ nav:hover{
 .menu-links{
     position: absolute;
     top: 100%;
-    right: 0;
+    right:0rem;
+    left: -7.5rem;
+    width: 200px;
     background-color: var(--primary-color);
-    width: fit-content;
+    
     max-height: 0;
     overflow: hidden;
+    margin-block: 1rem;
+  
     transition: all 0.3 ease-in-out;
 }
 .menu-links a{
