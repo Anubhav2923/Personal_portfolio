@@ -119,6 +119,7 @@ nav:hover{
 .hamburger-menu{
     position: relative;
     display: inline-block;
+    z-index: 1;
 }
 .hamburger-icon{
     display: flex;
